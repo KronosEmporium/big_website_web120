@@ -1,0 +1,17 @@
+p {
+    text-align: justify;
+    padding: 1em;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.additionalresources li {
+    display: block;
+}
+
+.additionalresources a {
+    color: black;
+    text-decoration: underline;
+}
